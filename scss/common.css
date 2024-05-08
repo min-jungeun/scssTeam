@@ -1,0 +1,10 @@
+#mainBanner {
+  color: #FFEBB7;
+}
+
+#mainTitle h2 {
+  font-family: "Noto San KR";
+  color: #111;
+  font-size: 56px;
+  font-weight: 600;
+}
