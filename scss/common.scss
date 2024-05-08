@@ -18,19 +18,20 @@ $fontColorSoftGray : #F2F2F2;
 $fontColorDarkBeige : #B2A569;
 
 
-#mainBanner{
-    color: $mainColor;
-}
+// #mainBanner{
+//     color: $mainColor;
+// }
 
-@mixin mainTitle{
-    font-family: 'Noto San KR';
-    color: #111;
-    font-size: 56px;
-    font-weight: 600;
-}
+// @mixin mainTitle{
+//     font-family: 'Noto San KR';
+//     color: #111;
+//     font-size: 56px;
+//     font-weight: 600;
+// }
 
-#mainTitle{
-    h2{
-        @include mainTitle;
-    }
-}
+// #mainTitle{
+//     h2{
+//         @include mainTitle;
+//     }
+// }
+
